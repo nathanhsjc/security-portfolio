@@ -10,7 +10,7 @@ Contact: [nathanhansen21@yahoo.com] · [LinkedIn URL]
 ## Investigations
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | coming, week 1 |
+| 1 | [Operation Dead Deploy](investigations/operation-dead-deploy/README.md) | Governance forensics, deployment audit trail | [View Investigation](investigations/operation-dead-deploy/README.md) |
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
