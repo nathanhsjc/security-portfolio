@@ -6,7 +6,7 @@ A junior intern at Mad Hat Labs was granted temporary Contributor access to depl
 
 Platform: Azure
 
-Services: Resource Groups (RG), Subscriptions, Azure Resources
+Services: Resource Groups (RG), Azure Subscriptions, Azure Resources
 
 Access Level: Read-Only
 
